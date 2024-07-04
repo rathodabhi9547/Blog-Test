@@ -6,7 +6,7 @@ import '../Styless/Footer.css';
   return (
     <div className='Footer'>
         
-            <p>&copy;Bol-Banjara</p>
+            <p>&copy;My_Blogs</p>
             
         
     </div>

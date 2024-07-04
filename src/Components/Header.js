@@ -46,41 +46,12 @@ function Header() {
 						</Nav.Item>
 
 						<Nav.Item>
-						  <Nav.Link eventKey="2" as={NavLink} to="/History">
-							History
+						  <Nav.Link eventKey="2" as={NavLink} to="/Blogging">
+							Blogging
 						  </Nav.Link>
 						</Nav.Item>
 
 						
-						<Nav.Item>
-						  <Nav.Link eventKey="3" as={NavLink} to="/Language">
-							Language
-						  </Nav.Link>
-						</Nav.Item>
-
-						<Nav.Item>
-						  <Nav.Link eventKey="4" as={NavLink} to="/Culture">
-							Culture
-						  </Nav.Link>
-						</Nav.Item>
-
-						<Nav.Item>
-						  <Nav.Link eventKey="5" as={NavLink} to="/Dance">
-							Dance
-						  </Nav.Link>
-						</Nav.Item>
-
-						<Nav.Item>
-						  <Nav.Link eventKey="6" as={NavLink} to="/Login">
-							Login
-						  </Nav.Link>
-						</Nav.Item>
-
-						<Nav.Item>
-						  <Nav.Link eventKey="7" as={NavLink} to="/Signup">
-							Signup
-						  </Nav.Link>
-						</Nav.Item>
 	  
 			
 					  </>
@@ -92,28 +63,10 @@ function Header() {
 							Home
 						  </Nav.Link>
 						</Nav.Item>
-						<Nav.Item>
-						  <Nav.Link eventKey="2" as={NavLink} to="/History">
-							History
-						  </Nav.Link>
-						</Nav.Item>
-
-						
-						<Nav.Item>
-						  <Nav.Link eventKey="3" as={NavLink} to="/Language">
-							Language
-						  </Nav.Link>
-						</Nav.Item>
 
 						<Nav.Item>
-						  <Nav.Link eventKey="4" as={NavLink} to="/Culture">
-							Culture
-						  </Nav.Link>
-						</Nav.Item>
-
-						<Nav.Item>
-						  <Nav.Link eventKey="5" as={NavLink} to="/Dance">
-							Dance
+						  <Nav.Link eventKey="1" as={NavLink} to="/Blogging">
+							Blogging
 						  </Nav.Link>
 						</Nav.Item>
 
